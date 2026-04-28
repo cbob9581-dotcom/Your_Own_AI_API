@@ -995,7 +995,6 @@ curl https://api.example.com/v1/parse-command \
 
 # 十、安全说明
 
-这一部分非常重要，建议你在正式发布文章时单独列出来。
 
 ## 1. 不要开放 9000 给公网
 
